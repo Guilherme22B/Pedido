@@ -32,3 +32,9 @@ iframe{
     display: none;
     margin: auto;
 }
+
+@media (max-width: 600px) {
+    img {
+        width: 60%;
+    }
+}
