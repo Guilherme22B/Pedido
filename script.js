@@ -4,13 +4,19 @@ function numeroAleatorio(min, max){
 
 
 function desvia(t){
+    var des = document.querySelector("h1")
+
+    des.innerHTML = 'DESCULPA POR TUDO'
+
+
+    /*
     var btn = t
 
     btn.style.position = 'absolute'
     btn.style.bottom = numeroAleatorio(1, 85)
     btn.style.left = numeroAleatorio(1,85)
 
-
+*/
 }
 
 
