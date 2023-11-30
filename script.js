@@ -6,7 +6,7 @@ function numeroAleatorio(min, max){
 function desvia(t){
     var des = document.querySelector("h1")
 
-    des.innerHTML = 'DESCULPA POR TUDO'
+    des.innerHTML = 'DESCULPA, EU ACABEI ME QUEIMANDO DE GRAÇA COM UMA PESSOA INCRIVEL'
 
 
     /*
