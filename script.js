@@ -16,7 +16,7 @@ function desvia(t){
 function sim(){
     var des = document.querySelector("h1")
 
-    des.innerHTML = 'DESCULPA, EU FUI BURRO E VACILEI PARA KRL'
+    des.innerHTML = 'DESCULPA, EU FUI BURRO E VACILEI PARA KRL, NÉ?'
 
 /*
     var a = document.querySelector('button')
